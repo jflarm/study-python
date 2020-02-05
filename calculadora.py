@@ -36,13 +36,14 @@ while True:
             break
     except ValueError:
         print("Opcion incorrecta! intentalo otra vez")
-  
+a = int(input("Primer numero: "))
+b = int(input("Segundo Numero: "))  
 if option is 1:
-    print('Option = 1')   
+    print("Suma = " + str(sumar(a,b)))
 elif option is 2:
-    print('Option = 2')
+    print("Resta = " + str(restar(a, b)))
 elif option is 3:
-    print('Option = 3')
+    print("Multiplicacion = " + str(multiplicar(a, b)))
 elif option is 4:
-    print('Option = 4')
+    print("Division = " + str(dividir(a, b)))
 

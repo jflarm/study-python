@@ -1,0 +1,16 @@
+charName = "Edward"
+charAge = "30"
+charJob = "teacher"
+phrase = "estamos buscando la manera de aprender"
+print(charName + " is a very good guy")
+print(charName + " is " + charAge + " years old")
+print(charName + " is a " + charJob)
+print(phrase.upper().isupper())
+print(len(phrase))
+print(phrase[14])
+print(phrase.index("aprender"))
+print(phrase.replace("estamos","Nosotros estamos"))
+print("Por defecto, la aritmetica del punto flotante puede dar valores extranos como el siguiente ejemplo de la operacion: -2.9 + (1 * 2 ):")
+print(-2.9 + (1 * 2))
+print("Por eso se puede usar la funcion round() para redondear con la cantidad de valores decimales deseados:")
+print(round(-2.9 + (1 * 2),1))

@@ -1,0 +1,6 @@
+Ejercicios de python
+1.- Crear nombres propios usando dos archivos: nombres y apellidos
+2.- Crear matriculas usando: año, dos dígitos para la provincia, dos dígitos \
+para el mes de nacimiento y tres digitos para el numero de estudiante (7 digi\
+tos total)
+3.- 

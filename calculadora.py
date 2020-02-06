@@ -36,8 +36,10 @@ while True:
             break
     except ValueError:
         print("Opcion incorrecta! intentalo otra vez")
+
 a = int(input("Primer numero: "))
 b = int(input("Segundo Numero: "))  
+
 if option is 1:
     print("Suma = " + str(sumar(a,b)))
 elif option is 2:

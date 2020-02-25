@@ -1,3 +1,4 @@
 *.txt
 ejemplos
 .vscode
+test_*

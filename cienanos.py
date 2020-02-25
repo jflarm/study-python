@@ -5,7 +5,7 @@ import datetime
 tday = datetime.date.today()
 #print(tday.year)
 cien_en = int(tday.year) + int(edad)
-print("Tendras 100 anos en el " + str(cien_en))
+print("Tendras 100 anos en el " + repr(cien_en))
 
 
 #Trabajar con fechas en python es raro, para encontrar año hay que declarar una\

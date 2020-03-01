@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<product>
+		<item currency="$" id="product-1" price="24.99">Philips Hue White Personal Wireless Lighting LED B22 9W</item>
+		<brand model="929001137161">Philips</Brand>
+	</Product>
+	<product>
+		<item currency="$" id="product-2" price="25.99">Philips Hue White Personal Wireless Lighting LED B22 9W</item>
+		<brand model="929001137161">Philips</Brand>
+	</Product>
+	<product>
+		<item currency="$" id="product-3" price="23.99">Philips Hue White Personal Wireless Lighting LED B22 9W</item>
+		<brand model="929001137161">Philips</Brand>
+	</Product>
+</root>

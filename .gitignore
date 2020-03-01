@@ -2,3 +2,4 @@
 ejemplos
 .vscode
 test_*
+__pycache__

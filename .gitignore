@@ -1,4 +1,10 @@
+.gitignore
 *.txt
+*.pdf
+*.mobi
+*.doc
+*.docx
+*.csv
 ejemplos
 .vscode
 test_*

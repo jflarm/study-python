@@ -1,6 +1,7 @@
 #!/usr/bin/python3.7
+limite = int(input("Indique el limete superior a evaluar pares: "))
 count=0
-while count < 20:
+while limite < 20:
     if count % 2 == 0:
         count += 1 #se le suma uno a la cuenta si el residuo de count/2 es 0
         continue #no sigue corriendo codigo dentro del while, por eso no es \
